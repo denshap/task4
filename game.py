@@ -1,0 +1,2 @@
+import gameModule
+gameModule.guessNum()
